@@ -1,5 +1,6 @@
 streamlit
 opencv-python
+numpy
 cvzone
 mediapipe
-numpy<2
+streamlit-webrtc
