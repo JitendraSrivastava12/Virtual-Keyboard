@@ -16,7 +16,7 @@ A virtual keyboard that uses hand gestures to type text, leveraging computer vis
 <h4>Language</h4>: Python
 
 <h3>🔧 Installation</h3>
-git clone https://github.com/JitendraSrivastava/Virtual-Keyboard.git
+git clone https://github.com/JitendraSrivastava12/Virtual-Keyboard.git
 cd virtual-keyboard
 pip install -r requirements.txt
 
