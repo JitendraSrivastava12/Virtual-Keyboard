@@ -1,7 +1,7 @@
 <h1>🖐️ Virtual Keyboard (Hand Gesture Based)</h1>
 A virtual keyboard that uses hand gestures to type text, leveraging computer vision techniques. The system uses your webcam to detect hand landmarks in real time and maps finger positions to virtual keys, allowing you to type without touching a physical keyboard.
 
-   <h3>  [Link To Webside](https://virtual-keyboard-jituji.streamlit.app/)</h3>
+ <h3><a href="https://virtual-keyboard-jituji.streamlit.app/">Link To Website</a></h3>
 
 <h3>🚀 Features</h3>
 1.🖐️ Hand gesture-based typing using a webcam
