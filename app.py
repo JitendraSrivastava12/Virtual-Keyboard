@@ -85,6 +85,12 @@ st.markdown("Use your fingers to type by pointing and pinching!")
 webrtc_streamer(
     key="keyboard",
     video_transformer_factory=VirtualKeyboard,
-    media_stream_constraints={"video": True, "audio": False},
+    media_stream_constraints={
+        "video": {
+            "width": {"ideal": 640},   # smaller width
+            "height": {"ideal": 480}   # smaller height
+        },
+        "audio": False
+    },
     async_processing=True,
 )
